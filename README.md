@@ -1,10 +1,10 @@
 # esa for Franz
 esa recipe for Franz 5 !
 
-#まずはじめに
-package.json内のserviceURLの値を、自分のesaアドレスに変更してください。
+# First setting
+Change serviceURL in package.json.
 
-#Installation
+# Installation
 1. To install a new integration, download the integration folder e.g `whatsapp`.
 2. Open the Franz Plugins folder on your machine (note that this `dev` directory may not exist yet, and you must create it):
   * Mac: `~/Library/Application Support/Franz/recipes/dev/`
