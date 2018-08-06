@@ -1,5 +1,5 @@
-# Asana for Franz
-Asana recipe for Franz 5 !
+# esa for Franz
+esa recipe for Franz 5 !
 
 #まずはじめに
 package.json内のserviceURLの値を、自分のesaアドレスに変更してください。
