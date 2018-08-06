@@ -1,0 +1,13 @@
+{
+  "id": "esa",
+  "name": "machina-esa",
+  "version": "1.0.0",
+  "description": "esa",
+  "main": "index.js",
+  "author": "kokky <kokky.arrow@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://[use-your-url].esa.io/",
+    "hasNotificationSound": true
+  }
+}
