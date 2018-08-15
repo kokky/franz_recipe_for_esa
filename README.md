@@ -10,6 +10,6 @@ Change serviceURL in package.json.
   * Mac: `~/Library/Application Support/Franz/recipes/dev/`
   * Windows: `%appdata%/Franz/recipes/dev/`
   * Linux: `~/.config/Franz/recipes/dev`
-3. Copy the `whatsapp` folder into the plugins directory
+3. Copy the `esa` folder into the plugins directory
 4. Reload Franz
 https://github.com/meetfranz/plugins/blob/master/docs/integration.md
